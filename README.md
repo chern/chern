@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-![Banner](banner.jpg)
+![Banner](https://raw.githubusercontent.com/chern/chern/main/banner.jpg)
 
 <!--
 **chern/chern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
